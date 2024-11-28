@@ -27,7 +27,7 @@ We've created an [API Explorer](https://developer.travis-ci.com/) that closely
 integrates with V3, updating automatically when new endpoints are added, and
 includes a useful tool for exploring endpoints.
 
-## API Version 2.1
+## API Version 2.
 
 We've released an update to the Travis CI API V2, which is API V2.1. This update essentially makes HTTP status codes more consistent between travis-ci.org and travis-ci.com.
 
